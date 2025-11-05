@@ -1,0 +1,31 @@
+interaction_id,tenant,tenant_tier,channel,raw_text,order_value,clv,sla_time_left,base_queue_wait,region_health_primary,region_health_secondary,agent_experience
+I_01,AcmeTel,Gold,voice,"My payment failed twice and I need this order processed immediately or I'll cancel",2500,15000,120,30,0.45,0.88,0.6
+I_02,QuickShop,Silver,chat,"I want to change my delivery address for order #7890",150,1200,600,40,0.95,0.92,0.7
+I_03,LearnX,Bronze,chat,"How do I reset my password? I can't login to my account",,200,1800,15,0.98,0.95,0.8
+I_04,AcmeTel,Gold,voice,"My subscription was renewed but I didn't receive confirmation",,,300,60,0.70,0.85,0.5
+I_05,HealthNow,Platinum,voice,"The system shows a billing error for claim 3456 — urgent, please escalate",5000,78000,90,10,0.65,0.80,0.9
+I_06,QuickShop,Silver,chat,"Is there a discount code I can use? Also what is estimated delivery time",100,320,1200,25,0.92,0.94,0.7
+I_07,FoodZoom,Bronze,chat,"My order is missing an item. Please arrange re-dispatch",400,800,600,45,0.88,0.85,0.6
+I_08,LearnX,Bronze,voice,"The application crashes when I click 'Submit' — can someone help?",,300,200,20,0.93,0.91,0.4
+I_09,AcmeTel,Gold,chat,"I need to cancel my subscription immediately",,22000,60,15,0.55,0.70,0.4
+I_10,HealthNow,Platinum,voice,"Claim denied incorrectly, this is urgent — I need a manager",,,30,5,0.40,0.60,0.95
+I_11,QuickShop,Silver,chat,"I accidentally ordered twice. How do I get a refund?",80,950,3600,20,0.96,0.98,0.8
+I_12,FoodZoom,Bronze,voice,"The delivery person was rude. I want compensation",,150,900,40,0.82,0.88,0.5
+I_13,AcmeTel,Gold,chat,"Payment pending for invoice 1223. Transfer didn't go through",1200,12000,180,60,0.50,0.78,0.6
+I_14,LearnX,Bronze,chat,"I want to upgrade my plan — what are the options?",,600,7200,10,0.97,0.96,0.85
+I_15,HealthNow,Platinum,voice,"I need urgent assistance with my insurance claim — hospital now",10000,150000,45,12,0.30,0.55,0.95
+I_16,QuickShop,Silver,voice,"Delivery estimate keeps changing — please explain",,500,540,180,0.85,0.90,0.7
+I_17,FoodZoom,Bronze,chat,"My food was cold and order incomplete — I want a refund",40,450,120,30,0.83,0.86,0.6
+I_18,AcmeTel,Gold,voice,"Agent disconnected in middle of call, call back now",,9000,75,20,0.48,0.72,0.5
+I_19,HealthNow,Platinum,chat,"I received wrong medication details, this is dangerous",,50000,20,8,0.35,0.50,0.95
+I_20,QuickShop,Silver,chat,"When will my order ship? It's been 3 days",,800,900,600,0.92,0.93,0.7
+I_21,LearnX,Bronze,chat,"I can't access course 101, it shows permission denied",,200,1500,180,0.95,0.94,0.6
+I_22,FoodZoom,Bronze,voice,"Delivery partner couldn't find my address, please call me back",,120,300,60,0.86,0.84,0.5
+I_23,AcmeTel,Gold,chat,"Payment failed but money deducted. Fix this immediately",3000,9000,90,20,0.47,0.69,0.6
+I_24,QuickShop,Silver,chat,"Can I change payment method after placing order?",,1100,240,40,0.90,0.92,0.7
+I_25,HealthNow,Platinum,voice,"My surgery pre-auth hasn't come through, hospital waiting",,75000,15,6,0.28,0.50,0.98
+I_26,FoodZoom,Bronze,chat,"I need to update my delivery instructions for order 554",20,400,600,10,0.89,0.87,0.65
+I_27,AcmeTel,Gold,voice,"I want to move to premium plan — what's the process",,25000,120,300,0.60,0.82,0.7
+I_28,LearnX,Bronze,chat,"My final exam grade is missing from my dashboard",,350,4800,15,0.97,0.95,0.9
+I_29,QuickShop,Silver,voice,"Large corporate order delayed — urgent procurement issue",50000,110000,45,20,0.65,0.70,0.85
+I_30,FoodZoom,Bronze,chat,"Please refund the extra charge on my order",15,120,3600,25,0.91,0.90,0.6
